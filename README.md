@@ -6,7 +6,7 @@
   <a href="https://mithil.systems"><img src="https://img.shields.io/badge/mithil.systems-000000?style=flat-square&logo=safari&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/mithil27360"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="mailto:mithil27360@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=mithil27360&style=flat-square&color=grey" alt="profile views"/>
+
 </p>
 
 </div>
